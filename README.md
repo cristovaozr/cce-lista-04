@@ -40,6 +40,6 @@ $ jupyter notebook
 
 ## Resumo das soluções das questões
 
-### Questão 5.nn
+### Questão 5.16
 
-TBD
+Questão que pede para calcular todos os códigos possíveis no GF(2**4). A questão é resolvida teoricamente no PDF e alguns dos cálculos são feitos aqui, para acelerar o resultado.
